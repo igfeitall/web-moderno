@@ -2,5 +2,5 @@
 
 
 
-### Lista de exercícios: `Exercicios_de_Programao.pdf`
+### Lista de exercícios para JS: `Exercicios__Javascript.pdf`
 
