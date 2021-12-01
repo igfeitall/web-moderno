@@ -1,7 +1,8 @@
-# Exercícios JavaScrip
+# Exercícios JavaScript
 
-### Exercícios Importantes
+## Exercícios Importantes
 ​	***Notas de Alunos - 23***
+_____
 
 - Problema :
 
