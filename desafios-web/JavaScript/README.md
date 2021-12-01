@@ -5,7 +5,7 @@
 
 - Problema :
 
-  ![ex23](D:\Trabalho\Cursos\web-moderno\desafios-web\img\ex23.png)	
+  ![ex23](https://github.com/igfeitall/web-moderno/blob/desafios/desafios-web/img/ex23.png)	
 
 - Resolução :
 
